@@ -2,7 +2,7 @@
 templateKey: about-page
 path: /about
 title: About Us
-image: /img/bags-commerce-hanging.jpg
+image: /img/river.jpg
 ---
 ### WHY SYZYGY HELLO
 
