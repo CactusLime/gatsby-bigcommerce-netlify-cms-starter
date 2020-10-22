@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import github from '../img/github-icon.svg';
-import logo from '../img/logo-header.png';
+import logo from '../img/SYZYYlogo.png';
 
 import CartContext from '../context/CartProvider';
 
@@ -77,7 +77,7 @@ const Navbar = class extends React.Component {
                   return (
                     <Link className="navbar-item menu-item-bigcommerce-cart" to="/cart">
                       Cart
-                      
+
                       {value &&
                         value.state.cart &&
                         value.state.cart.numberItems > 0 && (
