@@ -2,7 +2,7 @@
 templateKey: 'about-page'
 path: /about
 title: About Us
-image: /img/river.jpg
+image: /img/bags-commerce-hanging.jpg
 ---
 ### Creatively sourced for those that care
 We've searched the world to find products that we feel will not only speak to us, but any individuals that desire a positive outlook in a sustainable way.
